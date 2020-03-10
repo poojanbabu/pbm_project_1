@@ -1,5 +1,5 @@
 # pbm_project_1
-Practical Biomedical Modeling (PBM) project on noise in a simple biochemical switch
+Practical Biomedical Modeling (PBM) project on noise in a simple biochemical switch.<br />
 Main paper: https://www.ncbi.nlm.nih.gov/pubmed/22107236
 
 The project contains two python files:
